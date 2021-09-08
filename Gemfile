@@ -50,7 +50,7 @@ group :development do
   gem 'spring-watcher-listen', '~> 2.0.0'
   
   #Provides a better error page for Rails and other Rack apps. Includes source code
-  gem 'better_errors', '~> 2.5', '>= 2.5.1'
+  gem 'better_errors', '~> 2.8'
 
   #Guard is a command line tool to easily handle events on file system modifications.
   gem 'guard', '~> 2.15', '>= 2.15.1'
